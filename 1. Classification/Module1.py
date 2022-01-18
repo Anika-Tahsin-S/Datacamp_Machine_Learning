@@ -37,3 +37,5 @@ plt.figure()
 sns.countplot(x = 'missile', hue = 'party', data = df, palette = 'RdBu')
 plt.xticks([0,1], ['No', 'Yes'])
 plt.show()
+
+# Of these two bills, for which ones do Democrats vote resoundingly in favor of, compared to Republicans? Both 'satellite' and 'missile'.
