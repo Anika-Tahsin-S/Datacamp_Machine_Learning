@@ -11,7 +11,7 @@ SEED = 1
 X_train, y_train, X_test, y_test = train_test_split(X, y, test_size = 0.3, stratify = y, random_state = SEED)
 
 
-##                  Define The Bagging Classifier                  ##
+##                   Define The Bagging Classifier                  ##
 # The following exercises is on the Indian Liver Patient dataset from the UCI machine learning repository. 
 
 # Instantiate a classification-tree 'dt'
