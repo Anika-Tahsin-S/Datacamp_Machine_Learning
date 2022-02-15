@@ -1,0 +1,15 @@
+##                   When To Use Feature Selection                  ##
+
+# Let's say you had finished standardizing your data and creating new features. Which of the following scenarios is NOT a good candidate for feature selection?
+
+# A text field that hasn't been turned into a tf/idf vector yet. 
+# The text field needs to be vectorized before we can eliminate it, otherwise we might miss out on important data.
+
+
+
+##                   Identifying Areas For Feature Selection                  ##
+# Take an exploratory look at the post-feature engineering hiking dataset. Which of the following columns is a good candidate for feature selection?
+# Length
+# Difficulty
+# Accessible
+# All three of these columns are good candidates for feature selection.

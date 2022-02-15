@@ -1,0 +1,12 @@
+##                   Feature Engineering Knowledge Test                  ##
+
+Which of the following examples are good candidates for creating new features?
+1 and 2 (A column of timestamps and A column of newspaper headlines)
+Correct! Timestamps can be broken into days or months, and headlines can be used for natural language processing.
+
+
+
+##                   Identifying Areas For Feature Engineering                  ##
+Take an exploratory look at the volunteer dataset, using the variable of that name. Which of the following columns would you want to perform a feature engineering task on?
+2, 3, and 4 (title, created_date, and category_desc)
+All three of these columns will require some feature engineering before modeling.
