@@ -1,0 +1,12 @@
+##                   Which possible features?                  ##
+# Which of the following are possible features for a text classification problem?
+# Number of words in a document. 
+# Specific named entities. 
+# Language. 
+# All of the above. (Answer)
+
+
+
+##                   Training and Testing                  ##
+# What datasets are needed for supervised learning?
+# Answer: Both training and testing data.
