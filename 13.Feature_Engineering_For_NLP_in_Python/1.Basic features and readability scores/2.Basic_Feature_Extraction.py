@@ -29,6 +29,7 @@ print(ted['word_count'].mean())
 
 
 ##                   Hashtags and Mentions in Russian Tweets                  ##
+import matplotlib.pyplot as plt
 # Part 1
 # Function that returns numner of hashtags in a string
 def count_hashtags(string):
