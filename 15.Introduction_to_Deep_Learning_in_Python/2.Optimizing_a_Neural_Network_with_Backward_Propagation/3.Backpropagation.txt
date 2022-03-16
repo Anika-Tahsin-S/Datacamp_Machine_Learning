@@ -1,0 +1,15 @@
+##                   The relationship between forward and backward propagation                  ##
+If you have gone through 4 iterations of calculating slopes (using backward propagation) and then updated weights, how many times must you have done forward propagation?
+
+Answer : 4
+
+Each time you generate predictions using forward propagation, you update the weights using backward propagation.
+
+
+
+##                   Thinking about backward propagation                  ##
+If your predictions were all exactly right, and your errors were all exactly 0, the slope of the loss function with respect to your predictions would also be 0. In that circumstance, which of the following statements would be correct?
+
+Answer: The updates to all weights in the network would also be 0.
+
+In this situation, the updates to all weights in the network would indeed also be 0.
