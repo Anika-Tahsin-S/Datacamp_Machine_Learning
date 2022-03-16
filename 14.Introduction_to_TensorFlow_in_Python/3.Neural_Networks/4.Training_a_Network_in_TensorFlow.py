@@ -46,6 +46,7 @@ b2 = Variable(0.0)
 
 
 
+
 ##                   Defining the Model and Loss Function                  ##
 # Define the model
 def model(w1, b1, w2, b2, features = borrower_features):

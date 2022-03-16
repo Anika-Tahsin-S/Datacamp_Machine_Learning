@@ -24,6 +24,7 @@ print(loss_function(0.1, 0.5).numpy())
 
 
 
+
 ##                   Train a Linear Model                   ##
 # Initialize an Adam optimizer
 opt = keras.optimizers.Adam(0.5)

@@ -36,6 +36,7 @@ print(loss.numpy())
 
 
 
+
 ##                   Modifying the Loss Function                  ##
 # Initialize a variable named scalar
 scalar = Variable(1.0, float32)

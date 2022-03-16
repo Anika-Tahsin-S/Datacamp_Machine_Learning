@@ -35,6 +35,7 @@ model.compile('adam', loss = 'categorical_crossentrophy')
 
 
 
+
 # --------------------------------------------------------------------------------------------------------- #
 ##                   The Sequential Model in Keras                  ##
 from tensorflow import keras

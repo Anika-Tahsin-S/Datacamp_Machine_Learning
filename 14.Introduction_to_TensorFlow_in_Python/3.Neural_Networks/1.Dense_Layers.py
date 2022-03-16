@@ -32,6 +32,7 @@ dense = keras.activations.sigmoid(prod)
 
 
 
+
 # --------------------------------------------------------------------------------------------------------- #
 ##                   The Linear Algebra of Dense Layers                  ##
 # Part 1

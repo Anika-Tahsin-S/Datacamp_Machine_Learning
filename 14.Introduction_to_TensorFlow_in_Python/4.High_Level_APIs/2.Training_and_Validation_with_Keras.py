@@ -200,10 +200,6 @@ model.fit(sign_language_features, sign_language_labels, epochs = 50, validation_
 
 
 
-
-
-
-
 ##                   Evaluating Models                  ##
 # Two models have been trained and are available: large_model, which has many parameters; and small_model, which has fewer parameters. Both models have been trained using train_features and train_labels, which are available to you. A separate test set, which consists of test_features and test_labels, is also available.
 

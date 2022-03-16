@@ -48,6 +48,7 @@ print(x_1.numpy(), x_2.numpy())
 
 
 
+
 ##                   Avoiding Local Minima                  ##
 # Initialize x_1 and x_2
 x_1 = Variable(0.05, float32)

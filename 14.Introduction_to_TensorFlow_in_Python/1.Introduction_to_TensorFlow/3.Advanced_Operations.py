@@ -39,6 +39,7 @@ color_vector = reshape(color_tensor, (28*28*3, 1))
 
 
 
+
 ##                   Optimizing with Gradients                  ##
 def compute_gradient(x0):
   	# Define x as a variable with an initial value of x0

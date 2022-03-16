@@ -11,6 +11,7 @@ from tensorflow import ones, reduce_sum
 
 
 
+
 import numpy
 # --------------------------------------------------------------------------------------------------------- #
 ##                   Performing Element-wise Multiplication                  ##

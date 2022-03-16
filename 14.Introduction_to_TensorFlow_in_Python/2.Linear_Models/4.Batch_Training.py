@@ -20,6 +20,7 @@ def loss_function(intercept, slope, targets, features):
 
 
 
+
 ##                   Training a Linear Model in Batches                   ##
 # Initialize Adam optimizer
 opt = keras.optimizers.Adam()

@@ -23,6 +23,7 @@ print('\n The shape is:', credit_constant.shape)
 
 
 
+
 ##                   Defining Variables                  ##
 # Define the 1-dimensional variable A1
 A1 = tf.Variable([1, 2, 3, 4])

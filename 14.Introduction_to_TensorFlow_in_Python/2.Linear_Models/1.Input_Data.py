@@ -80,6 +80,7 @@ print(housing.price)
 
 
 
+
 ##                   Setting the Data Type                  ##
 # Import numpy and tensorflow with their standard aliases
 import numpy as np
