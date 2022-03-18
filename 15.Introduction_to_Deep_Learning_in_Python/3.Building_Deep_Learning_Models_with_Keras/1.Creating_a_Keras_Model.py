@@ -4,7 +4,7 @@ from keras.layers import Dense
 from keras.models import Sequential
 
 pred = np.loadtxt('predictions_data.csv', delimiter = ',')
-n_cols = pred,shape[1]
+n_cols = pred.shape[1]
 
 model = Sequential()
 model.add(Dense(100, activation = 'relu', input_shape = (n_cols, ))
