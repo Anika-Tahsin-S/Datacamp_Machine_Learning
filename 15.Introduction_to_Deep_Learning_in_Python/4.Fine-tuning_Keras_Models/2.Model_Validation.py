@@ -1,5 +1,4 @@
 # Early Stopping
-from gc import callbacks
 from keras.callbacks import EarlyStopping
 
 early_stopping_monitor = EarlyStopping(patience = 2)
