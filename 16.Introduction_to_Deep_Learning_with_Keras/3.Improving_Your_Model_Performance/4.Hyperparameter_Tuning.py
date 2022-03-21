@@ -1,5 +1,4 @@
 ## Sklearn Recap ##
-from pickletools import optimize
 from sklearn.model_selection import RandomizedSearchCV
 
 tree = DecisionTreeClassifier()
