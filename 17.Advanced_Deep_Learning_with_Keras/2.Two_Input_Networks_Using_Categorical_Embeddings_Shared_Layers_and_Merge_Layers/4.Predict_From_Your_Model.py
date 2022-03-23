@@ -22,6 +22,7 @@ model.evaluate([np.array([[-1]]), np.array([[-2]])], np.array([[-3]]))
 
 
 
+
 # --------------------------------------------------------------------------------------------------------- #
 ##                   Fit the model to the regular season training data                  ##
 # Get the team_1 column from the regular season data
