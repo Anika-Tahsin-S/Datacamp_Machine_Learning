@@ -91,14 +91,6 @@ show_image(image_eq, 'Resulting image')
 
 
 
-
-
-
-
-
-
-
-
 ##                  Let's add some impact and contrast                  ##
 # Import the necessary modules
 from skimage import data, exposure
