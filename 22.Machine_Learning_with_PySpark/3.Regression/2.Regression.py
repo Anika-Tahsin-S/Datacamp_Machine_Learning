@@ -151,7 +151,7 @@ print(avg_ground_lga)
 # output:
 # avg_speed_hour         : 807.3336599681242
 # intercept              : 15.856628374450773
-# Average avg_ground_jfk : 68.53550999587868
+# avg_ground_jfk : 68.53550999587868
 # avg_ground_lga speed   : 62.56747182033072
 
 
