@@ -96,17 +96,4 @@ print("Number of coefficients equal to 0:", zero_coeff)
 
 
 
-##                  Flight duration model: Adding origin airport                  ##
-
-
-
-
-
-
-
-##                  Interpreting coefficients                  ##
-
-
-
-
 ## ====================================================================================================== ##
